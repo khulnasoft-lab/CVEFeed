@@ -85,6 +85,6 @@ _All changes are immediate for consultancy / integrator license customers. The C
 0.7.1
 -----
 * [New] Reactivated the ability to automate the download process for Consultancy / Integrator plans using private Dropbox repository.
-* [Improve] Improved the `mongo.py` to check whether SQLite exists. Thanks to Alex Faraino (https://github.com/AlexFaraino/CVEFeed)
+* [Improve] Improved the `mongo.py` to check whether SQLite exists. Thanks to Alex Faraino (https://github.com/khulnasoft-lab/CVEFeed)
 * [Fix] Modified cvefeedcli from API to wrapper.
 * [Doc] [Documentation](https://khulnasoft.com/docs) updated to reflect the new changes.

@@ -18,7 +18,7 @@ _All changes are immediate for consultancy / integrator license customers. The C
 0.7.1
 -----
 * [New] Reactivated the ability to automate the download process for Consultancy / Integrator plans using private Dropbox repository.
-* [Improve] Improved the `mongo.py` to check whether SQLite exists. Thanks to Alex Faraino (https://github.com/AlexFaraino/CVEFeed)
+* [Improve] Improved the `mongo.py` to check whether SQLite exists. Thanks to Alex Faraino (https://github.com/khulnasoft-lab/CVEFeed)
 * [Fix] Modified cvefeedcli from API to wrapper.
 * [Doc] [Documentation](https://khulnasoft.com/docs) updated to reflect the new changes.
 
@@ -69,7 +69,7 @@ _All changes are immediate for consultancy / integrator license customers. The C
 0.6.5
 ---------
 * [New] Added the ability to migrate to Mongo Database (Thanks so much to Ushan89 for the original code)
-* [New] A new class `mongo.py` added (based on Ushan89 [code](https://github.com/ushan89/CVEFeed) to simply the process of migration from SQLite to MongoDB
+* [New] A new class `mongo.py` added (based on Ushan89 [code](https://github.com/khulnasoft-lab/CVEFeed) to simply the process of migration from SQLite to MongoDB
     * --migrate: Dump into a CSV then populate the CVEFeed MongoDB
 * The documentation updated. Visit [Documentation Page](https://github.com/khulnasoft-lab/CVEFeed/wiki/)
 
